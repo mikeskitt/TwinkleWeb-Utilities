@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h> 
 #include <ESP8266HTTPClient.h> 
-const char* ssid = "TP-LINK_C9701C"; 
-const char* password = "6c4a61bbbd"; 
+const char* ssid = "TP-888888888888"; 
+const char* password = "88888888"; 
 const char* host[] = {"http://192.168.1.252",
                       "http://192.168.1.251",
                       "http://192.168.1.250"}; //edit the host adress, ip address etc. 
